@@ -1,0 +1,1 @@
+# padroes-em-typescript
